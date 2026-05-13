@@ -1,3 +1,5 @@
+<img width="1592" height="856" alt="image" src="https://github.com/user-attachments/assets/597a1178-452d-4da3-a17f-c1e1ccb4a2fc" />
+
 # Swiggy Sales Dashboard
 
 This is an Excel-based interactive dashboard used to analyze sales performance, ratings, and order trends for Swiggy data.
