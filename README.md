@@ -71,7 +71,7 @@ Explore the dashboard using the filters on the left panel
 
 🙋‍♂️ Author
 Your Name
-📧 youssefmamdouh123456789@gmail.com.com
+📧 www.linkedin.com/in/youssef-mamdouh-322440357.com
 🔗 LinkedIn | GitHub
 
 📃 License
