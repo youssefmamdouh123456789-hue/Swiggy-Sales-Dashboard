@@ -71,7 +71,7 @@ Explore the dashboard using the filters on the left panel
 
 🙋‍♂️ Author
 Your Name
-📧 your.email@example.com
+📧 youssefmamdouh123456789@gmail.com.com
 🔗 LinkedIn | GitHub
 
 📃 License
